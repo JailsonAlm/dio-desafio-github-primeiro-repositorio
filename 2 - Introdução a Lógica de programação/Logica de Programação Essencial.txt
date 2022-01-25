@@ -1,0 +1,114 @@
+ENTENDENDO O QUE É LÓGICA DE PROGRAMAÇÃO
+
+Objetivos da Aula
+	1. Entender o que é lógica e lógica de programação
+	2. Entender e criar um mapa mental para resolução de problemas
+	3. Entender o que é uma abstração
+	
+"Lógica de programação significa apenas contextualiza a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar o problema"
+
+"Abstração é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais"
+
+O QUE SÃO ALGORITMOS E PSEUDOCÓDIGOS
+
+	1. Entender o que é um algoritmo
+	2. Entender o que é um pseudocódigo
+
+O que é um algoritmo "é uma sequência de passos para resolver um problema"
+
+"Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa)".
+
+Exercícios
+Racha-cuca "Pinguins numa fria"
+Jogo minicreft
+algoritmo do dia
+
+FLUXOGRAMA E VARIÁVEIS
+
+	1. Entender o que é um fluxograma
+	2. Aprender sobre variáveis, constantes e tipos de dados
+
+
+"Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados".
+
+"Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão."
+
+"Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo".
+
+As variáveis e as constantes podem ser classificadas basicamente de quatro tipos: Numéricas, Caracteres, Alfanuméricas ou lógicas.
+
+As constantes são valores imutáveis e não são alterados durante a vida útil do programa.
+
+TOMADAS DE DECISÃO E EXPRESSÕES
+
+	1. Conhecer as expressões aritméticas, literais e as expressões relacionais
+	2. Entender e aplicar as tomadas de decisão em um algoritmo
+
+
+EXPRESSÕES ARITMÉTICAS - "São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis"
+
+EXPRESSÕES LITERAIS - "São expressões com constantes e/ou variáveis que tem como resultado valores literais. Iremos utilizar as expressões literais na atribuição de valor para uma variável ou constante."
+
+OPERADORES RELACIONAIS - "São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais. As expressões relacionais retornam valores lógicos (Verdadeiro/Falso)"
+
+TOMADAS DE DECISÃO - " Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução"
+
+CONCATENAÇÃO
+
+Concatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas string*.
+
+String* é uma sequência de caracteres.
+
+ESTRUTURA DE REPETIÇÃO
+
+Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com um condição ou com um contador.
+
+LINGUAGEM DE PROGRAMAÇÃO E O PORTUGOL
+
+	1. Aprender o que são linguagens programação
+	2. Introdução ao Portugol (Utilizando pseudocódigos na prática)
+
+"Linguagem de programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permita sua execução"
+
+"O que é óbvio para você, certamente não é óbvio para uma máquina. E se você quer que a máquina faça logo pra você, você precisa, "falar com ela".
+
+A função das linguagens de programação é servir de um meio de comunicação entre computadores e humanos.
+
+Existem dois tipos de linguagem de programação: Alto Nível e Baixo Nível
+Alto Nível
+Essas são aquelas cujas sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina.
+Baixo Nível
+É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa.
+Compiladas
+É uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação. Csharp, visualbasic, c++
+Interpretadas
+É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador. Javascript, php, python
+
+"Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguagem de programação"
+
+DESVIOS CONDICONAIS E OS COMENTÁRIOS - PORTUGOL
+
+	1. Aprender a utilizar os desvios condicionais (estruturas de decisão) no Portugol
+	2. Boas práticas de programação - Comentários
+
+SE - "É utilizada a palavra reservada SE, a condição a ser testada entre parênteses e as instruções que devem ser executadas entre chaves caso o desvio seja verdadeiro"
+
+SE-SENÃO - "Agora vamos imaginar que se a condição for falsa um outro conjunto de comandos deve ser executado. Quando iremos encontrar esta situação?"
+
+CASO - "Este comando é similar aos comandos se e senão, e reduz a complexidade na escolha de diversas opções. Apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando não é possível o uso de operadores lógicos, ele apenas trabalha com valores definidos.
+
+TRABALHANDO COM LAÇOS DE REPETIÇÃO EM PORTUGOL
+
+	1. Aprendendo a utilizar os laços de repetição no portugol
+
+ESTRUTURA DE REPETIÇÃO - "Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador."
+
+MATRIZES E VETORES
+
+	1. Entender o que é uma matriz e um vetor e entender a sua aplicação prática
+
+MATRIZ - "Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória."
+
+"A individualização de cada variável de um vetor é feita através do uso de índices."
+
+VETORES - "Os Vetores são matrizes de uma só dimensão."
